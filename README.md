@@ -53,9 +53,8 @@ To mark a task as completed, simply complete all of the required Pomodoros. The 
 
 ### Screen Shots (Just 10 seconds session for testing)
 
+<img width="871" alt="Screenshot 2023-05-12 at 4 19 05 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/36506f9c-79a9-4670-935f-20e1cee53c28">
+<img width="871" alt="Screenshot 2023-05-12 at 4 19 38 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/3a2226e2-82d6-4ddf-8337-336b2228abb5">
+<img width="891" alt="Screenshot 2023-05-12 at 4 20 05 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/1a4d44aa-2ee2-485c-ae19-32b044563024">
+<img width="1062" alt="Screenshot 2023-05-12 at 5 08 58 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/677c3109-11b4-4d9d-8d06-85c956783503">
 
-<img width="317" alt="Screenshot 2023-03-30 at 1 01 42 AM" src="https://user-images.githubusercontent.com/97001250/228691916-9feeb305-7336-4e25-b62a-1bbaa2c7d370.png">
-<img width="317" alt="Screenshot 2023-03-30 at 1 01 50 AM" src="https://user-images.githubusercontent.com/97001250/228691922-68faefa7-af10-4f8b-8705-33fa0e306f5b.png">
-<img width="317" alt="Screenshot 2023-03-30 at 1 01 59 AM" src="https://user-images.githubusercontent.com/97001250/228691927-dca54c8e-8101-4c67-9fb6-aa20f016f24f.png">
-<img width="317" alt="Screenshot 2023-03-30 at 1 02 23 AM" src="https://user-images.githubusercontent.com/97001250/228691931-4727a6ce-b795-4e3c-a45a-9e36c5edf197.png">
-<img width="317" alt="Screenshot 2023-03-30 at 1 02 30 AM" src="https://user-images.githubusercontent.com/97001250/228691934-5d68231b-c1a1-423e-96a5-3e644529da8d.png">
