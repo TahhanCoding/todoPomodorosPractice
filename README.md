@@ -58,3 +58,7 @@ To mark a task as completed, simply complete all of the required Pomodoros. The 
 <img width="891" alt="Screenshot 2023-05-12 at 4 20 05 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/1a4d44aa-2ee2-485c-ae19-32b044563024">
 <img width="1062" alt="Screenshot 2023-05-12 at 5 08 58 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/677c3109-11b4-4d9d-8d06-85c956783503">
 
+[## Record](https://github.com/TahhanCoding/todoPomodorosPractice/raw/main/Files/Screen%20Recording%202023-05-12%20at%205.47.55%20PM.mov)
+
+
+
