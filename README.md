@@ -62,3 +62,9 @@ To mark a task as completed, simply complete all of the required Pomodoros. The 
 
 
 
+
+
+[Watch it](https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/97de98dc-f8c8-41e8-9b1b-520107c07320)
+
+
+
