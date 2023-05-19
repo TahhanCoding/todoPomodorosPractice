@@ -52,15 +52,26 @@ To mark a task as completed, simply complete all of the required Pomodoros. The 
 
 
 ### Screen Shots (Just 10 seconds session for testing)
+#
+<img width="1439" alt="Screenshot 2023-05-19 at 3 25 04 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/3a9696b7-e701-47d8-8e21-81bebc772685">
+#
+<img width="1439" alt="Screenshot 2023-05-19 at 3 25 44 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/aae07aff-4aee-49ac-a4c3-3abfa2ab0e1d">
+#
+<img width="1439" alt="Screenshot 2023-05-19 at 3 23 38 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/e316e3e4-646b-4fc7-a420-2d9e67749bab">
+#
+<img width="1439" alt="Screenshot 2023-05-19 at 3 22 49 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/e275cffa-9cf9-4f35-8cca-8072d8492e35">
+#
 
-<img width="871" alt="Screenshot 2023-05-12 at 4 19 05 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/36506f9c-79a9-4670-935f-20e1cee53c28">
-<img width="871" alt="Screenshot 2023-05-12 at 4 19 38 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/3a2226e2-82d6-4ddf-8337-336b2228abb5">
-<img width="891" alt="Screenshot 2023-05-12 at 4 20 05 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/1a4d44aa-2ee2-485c-ae19-32b044563024">
-<img width="1062" alt="Screenshot 2023-05-12 at 5 08 58 PM" src="https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/677c3109-11b4-4d9d-8d06-85c956783503">
+
+https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/a79a6a9d-1ca2-415e-873c-ae68eab6e4fa
 
 
 
-[Watch it](https://github.com/TahhanCoding/todoPomodorosPractice/assets/97001250/97de98dc-f8c8-41e8-9b1b-520107c07320)
+
+
+
+
+
 
 
 
